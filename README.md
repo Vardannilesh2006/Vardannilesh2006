@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/Vardannilesh2006?theme=dark&amp;cols=140" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/Vardannilesh2006?theme=light&amp;cols=140" />
-  <img alt="Vardannilesh2006's GitHub profile" src="https://gh.crafter.run/Vardannilesh2006?theme=dark&amp;cols=140" />
-</picture>
+<img alt="Vardannilesh2006's GitHub profile" src="https://gh.crafter.run/Vardannilesh2006?theme=dark&amp;cols=140" width="100%" />
 
 ## Hi there 👋
 
